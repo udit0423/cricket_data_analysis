@@ -1,0 +1,11 @@
+Player Name,Country,Role,batsmanName,inning_batted,Average_SR,Average_Boundary_Percentage,total_runs,batting_average,bowlerName,inningbowled,avg_bowling_economy,avg_bowling_strike,average_bowling_avg,average_dot_ball_%
+Glenn Maxwell,Australia,Batting Allrounder,Glenn Maxwell,13,168.69615384615386,67.06619467489033,301,23.153846153846157,Glenn Maxwell,10.0,6.93,14.4,16.0,42.78
+Jasprit Bumrah,India,Bowler,Jasprit Bumrah,6,0.0,,0,0.0,Jasprit Bumrah,14.0,7.22,15.83,17.0,43.65
+Tim Southee,New Zealand,Bowler,Tim Southee,5,24.0,0.0,2,0.4,Tim Southee,9.0,7.73,13.43,15.02,45.06
+Aiden Markram,South Africa,Opening Batter,Aiden Markram,12,131.0625,46.1378274566138,381,31.75,Aiden Markram,4.0,10.0,6.0,8.0,25.0
+Andre Russell,West Indies,Allrounder,Andre Russell,12,143.6875,70.73444650587507,335,27.916666666666668,Andre Russell,13.0,9.39,8.96,15.45,45.62
+Liam Livingstone,England,Batting Allrounder,Liam Livingstone,14,167.06071428571428,57.45610257089849,437,31.214285714285715,Liam Livingstone,12.0,10.78,10.27,12.17,22.93
+David Warner,Australia,Opening Batter,David Warner,12,125.51583333333332,60.03430050949549,432,36.0,,,,,,
+Jos Buttler,England,Wicketkeeper Batter,Jos Buttler,17,128.74411764705883,60.39675990768772,863,50.76470588235294,,,,,,
+Rajat Patidar,India,Top order Batter,Rajat Patidar,7,142.5857142857143,57.92959093451704,333,47.57142857142857,,,,,,
+Suryakumar Yadav,India,Batter,Suryakumar Yadav,8,138.7375,57.96648944413137,303,37.875,,,,,,

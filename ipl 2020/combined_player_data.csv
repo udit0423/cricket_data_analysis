@@ -1,0 +1,13 @@
+Player Name,Country,Role,batsmanName,inning_batted,Average_SR,Average_Boundary_Percentage,total_runs,batting_average,bowlerName,inningbowled,avg_bowling_economy,avg_bowling_strike,average_bowling_avg,average_dot_ball_%
+Bhuvneshwar Kumar,India,Bowler,Bhuvneshwar Kumar,1.0,0.0,,0.0,0.0,Bhuvneshwar Kumar,4.0,7.12,15.3,16.25,46.82
+Chris Morris,South Africa,Bowling Allrounder,Chris Morris,5.0,125.5,47.0,34.0,6.8,Chris Morris,9.0,6.98,14.08,18.67,46.65
+Jasprit Bumrah,India,Bowler,Jasprit Bumrah,1.0,166.66,0.0,5.0,5.0,Jasprit Bumrah,15.0,6.73,12.0,13.62,48.61
+Pat Cummins,Australia,Bowler,Pat Cummins,11.0,107.89181818181818,35.738270608414894,146.0,13.272727272727272,Pat Cummins,14.0,7.95,15.33,14.94,45.04
+Trent Boult,New Zealand,Bowler,Trent Boult,1.0,0.0,,0.0,0.0,Trent Boult,15.0,7.84,14.71,19.85,46.94
+Vijay Shankar,India,Allrounder,Vijay Shankar,5.0,87.934,39.42307692307692,97.0,19.4,Vijay Shankar,5.0,6.77,14.55,15.0,40.83
+Ben Stokes,England,Allrounder,Ben Stokes,8.0,135.01749999999998,64.0788920481433,285.0,35.625,Ben Stokes,6.0,10.22,12.0,16.0,27.78
+Kieron Pollard,West Indies,Batting Allrounder,Kieron Pollard,10.0,174.248,65.61941976915979,258.0,25.8,Kieron Pollard,11.0,9.24,15.0,21.5,23.99
+Chris Gayle,West Indies,Allrounder,Chris Gayle,7.0,135.8957142857143,61.54475820019851,288.0,41.142857142857146,Chris Gayle,1.0,6.0,0.0,0.0,0.0
+Ishan Kishan,India,Wicketkeeper Batter,Ishan Kishan,13.0,132.14923076923077,60.30741946633788,516.0,39.69230769230769,,,,,,
+Mayank Agarwal,India,Batter,Mayank Agarwal,11.0,143.5009090909091,52.57599149169292,424.0,38.54545454545455,,,,,,
+Wriddhiman Saha,India,Wicketkeeper Batter,,,,,,,,,,,,

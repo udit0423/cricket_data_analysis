@@ -1,0 +1,11 @@
+Player Name,Country,Role,batsmanName,inning_batted,Average_SR,Average_Boundary_Percentage,total_runs,batting_average,bowlerName,inningbowled,avg_bowling_economy,avg_bowling_strike,average_bowling_avg,average_dot_ball_%
+Mohammed Shami,India,Bowler,Mohammed Shami,4.0,57.5,16.666666666666664,10.0,2.5,Mohammed Shami,7.0,5.14,15.11,14.01,63.59
+Travis Head,Australia,Top order Batter,Travis Head,6.0,101.15,66.06524352272997,329.0,54.833333333333336,Travis Head,5.0,4.46,15.0,10.5,49.56
+Aiden Markram,South Africa,Opening Batter,Aiden Markram,8.0,166.60625000000002,61.245493238417765,304.0,38.0,Aiden Markram,4.0,5.48,48.0,23.0,51.14
+Glenn Maxwell,Australia,Batting Allrounder,Glenn Maxwell,9.0,112.66777777777776,43.240637732909605,400.0,44.44444444444444,Glenn Maxwell,8.0,5.04,48.36,41.0,47.28
+David Warner,Australia,Opening Batter,David Warner,11.0,119.57454545454544,63.92429859936576,535.0,48.63636363636363,,,,,,
+Glenn Phillips,New Zealand,Allrounder,Glenn Phillips,9.0,119.54444444444442,61.34428731539216,285.0,31.666666666666668,Glenn Phillips,10.0,5.71,13.67,11.28,39.07
+David Miller,South Africa,Middle order Batter,David Miller,10.0,123.346,63.900067656411736,356.0,35.6,,,,,,
+Heinrich Klaasen,South Africa,Wicketkeeper Batter,Heinrich Klaasen,10.0,123.195,51.17905703332397,373.0,37.3,,,,,,
+Rohit Sharma,India,Top order Batter,,,,,,,Rohit Sharma,1.0,8.4,3.0,7.0,100.0
+Marcus Stoinis,Batting Allrounder,Australia,Marcus Stoinis,5.0,121.516,66.57142857142857,87.0,17.4,Marcus Stoinis,6.0,6.42,23.0,33.0,38.33

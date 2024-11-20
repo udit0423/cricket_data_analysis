@@ -1,0 +1,15 @@
+Player Name,Country,Role,batsmanName,inning_batted,Average_SR,Average_Boundary_Percentage,total_runs,batting_average,bowlerName,inningbowled,avg_bowling_economy,avg_bowling_strike,average_bowling_avg,average_dot_ball_%
+Naveen-ul-Haq,Afghanistan,Bowler,Naveen-ul-Haq,3.0,62.22,20.512820512820515,16.0,5.333333333333333,Naveen-ul-Haq,7.0,7.82,11.5,12.12,40.48
+Cameron Green,Australia,Batting Allrounder,Cameron Green,16.0,140.25,47.83403315769063,452.0,28.25,Cameron Green,16.0,9.6,14.4,22.9,41.49
+Glenn Maxwell,Australia,Batting Allrounder,Glenn Maxwell,14.0,156.69571428571427,73.43944711816972,400.0,28.571428571428573,Glenn Maxwell,7.0,8.34,8.8,11.33,33.39
+Liam Livingstone,England,Batting Allrounder,Liam Livingstone,9.0,130.13555555555556,61.93911645149959,279.0,31.0,Liam Livingstone,5.0,13.8,9.0,21.0,10.0
+Faf du Plessis,South Africa,Middle order Batter,Faf du Plessis,3.0,183.94,74.8697328393723,163.0,54.333333333333336,,,,,,
+Heinrich Klaasen,South Africa,Wicketkeeper Batter,,,,,,,,,,,,
+Jason Roy,England,Opening Batter,Jason Roy,8.0,145.9075,72.20932521766991,285.0,35.625,,,,,,
+Quinton de Kock,South Africa,Wicketkeeper Batter,,,,,,,,,,,,
+Ruturaj Gaikwad,India,Batter,Ruturaj Gaikwad,15.0,139.36666666666667,55.831800440244166,590.0,39.333333333333336,,,,,,
+Sai Sudharsan,India,Top order Batter,Sai Sudharsan,8.0,133.975,52.77790796753752,362.0,45.25,,,,,,
+Shubman Gill,India,Opening Batter,Shubman Gill,17.0,136.26176470588234,58.19041427907329,890.0,52.35294117647059,,,,,,
+Suryakumar Yadav,India,Batter,Suryakumar Yadav,15.0,154.372,57.79444692129089,562.0,37.46666666666667,,,,,,
+Virat Kohli,India,Top order Batter,Virat Kohli,11.0,126.05454545454543,49.26893012885303,526.0,47.81818181818182,,,,,,
+Yashasvi Jaiswal,India,Opening Batter,Yashasvi Jaiswal,14.0,136.93928571428572,70.93303029943877,625.0,44.642857142857146,,,,,,

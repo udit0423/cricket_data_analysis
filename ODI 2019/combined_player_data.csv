@@ -1,0 +1,14 @@
+Player Name,Country,Role,batsmanName,inning_batted,Average_SR,Average_Boundary_Percentage,total_runs,batting_average,bowlerName,inningbowled,avg_bowling_economy,avg_bowling_strike,average_bowling_avg,average_dot_ball_%
+Glenn Maxwell,Australia,Batting Allrounder,Glenn Maxwell,10.0,162.965,62.16703787355962,177.0,17.7,Glenn Maxwell,8.0,6.31,0.0,0.0,40.61
+Jean-Paul Duminy,South Africa,Batting Allrounder,Jean-Paul Duminy,4.0,82.325,28.53174603174603,70.0,17.5,Jean-Paul Duminy,4.0,7.5,12.0,15.0,40.62
+Carlos Brathwaite,West Indies,Allrounder,Carlos Brathwaite,6.0,117.37333333333332,53.4506129184347,154.0,25.666666666666668,Carlos Brathwaite,7.0,7.49,17.17,22.36,35.05
+Hardik Pandya,India,Allrounder,Hardik Pandya,9.0,121.18666666666668,45.732020093433135,226.0,25.11111111111111,Hardik Pandya,9.0,5.63,37.33,33.42,43.87
+Imad Wasim,Pakistan,Allrounder,Imad Wasim,5.0,112.144,42.98631889560677,162.0,32.4,Imad Wasim,5.0,4.9,30.0,24.0,44.33
+Alex Carey,Australia,Wicketkeeper Batter,,,,,,,,,,,,
+Avishka Fernando,Sri Lanka,Opening Batter,Avishka Fernando,4.0,106.32,63.23914181057039,203.0,50.75,,,,,,
+Jason Roy,England,Opening Batter,Jason Roy,7.0,110.35714285714286,68.23472823472824,443.0,63.285714285714285,,,,,,
+Jos Buttler,England,Wicketkeeper Batter,,,,,,,,,,,,
+Kusal Perera,Sri Lanka,Wicketkeeper Batter,,,,,,,,,,,,
+Litton Das,Bangladesh,Wicketkeeper Batter,Litton Das,5.0,103.928,46.86943907156673,184.0,36.8,,,,,,
+Shimron Hetmyer,West Indies,Middle order Batter,Shimron Hetmyer,8.0,102.5275,43.485719899513,257.0,32.125,,,,,,
+Heinrich Klaasen,South Africa,Wicketkeeper Batter,,,,,,,,,,,,

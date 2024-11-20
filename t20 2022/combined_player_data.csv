@@ -1,0 +1,12 @@
+Player Name,Role,Country,batsmanName,inning_batted,Average_SR,Average_Boundary_Percentage,total_runs,batting_average,bowlerName,inningbowled,avg_bowling_economy,avg_bowling_strike,average_bowling_avg,average_dot_ball_%
+Arshdeep Singh,Bowler,India,Arshdeep Singh,1,200.0,0.0,2,2.0,Arshdeep Singh,6.0,7.5,11.2,13.93,47.22
+Blessing Muzarabani,Bowler,Zimbabwe,Blessing Muzarabani,4,12.5,0.0,2,0.5,Blessing Muzarabani,7.0,7.57,15.71,20.95,47.02
+Richard Ngarava,Bowler,Zimbabwe,Richard Ngarava,5,112.38,33.33333333333333,21,4.2,Richard Ngarava,8.0,7.96,14.4,18.0,51.04
+Shaheen Shah Afridi,Bowler,Pakistan,Shaheen Shah Afridi,3,155.5533333333333,47.5,22,7.333333333333333,Shaheen Shah Afridi,7.0,6.09,12.12,10.83,47.08
+Taskin Ahmed,Bowler,Bangladesh,Taskin Ahmed,4,62.56,41.11111111111112,23,5.75,Taskin Ahmed,5.0,7.75,10.67,19.53,58.06
+Shadab Khan,Allrounder,Pakistan,Shadab Khan,6,130.66,64.90497737556561,98,16.333333333333332,Shadab Khan,7.0,6.46,11.6,11.6,38.1
+Marcus Stoinis,Batting Allrounder,Australia,Marcus Stoinis,4,159.2025,46.8910411622276,126,31.5,Marcus Stoinis,4.0,9.25,6.0,6.0,17.71
+Alex Hales,Opening Batter,England,Alex Hales,6,125.77166666666666,48.98145098215412,212,35.333333333333336,,,,,,
+Glenn Phillips,Allrounder,New Zealand,Glenn Phillips,5,143.72,66.41268914513697,201,40.2,,,,,,
+Suryakumar Yadav,Batter,India,Suryakumar Yadav,6,182.58333333333331,64.20252253907027,239,39.833333333333336,,,,,,
+Virat Kohli,Top order Batter,India,Virat Kohli,6,129.85833333333332,49.67619337018432,296,49.333333333333336,,,,,,
